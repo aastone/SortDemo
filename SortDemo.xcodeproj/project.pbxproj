@@ -21,6 +21,17 @@
 		03FBB9BF18C80C060039EA59 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03FBB9A118C80C060039EA59 /* UIKit.framework */; };
 		03FBB9C718C80C060039EA59 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 03FBB9C518C80C060039EA59 /* InfoPlist.strings */; };
 		03FBB9C918C80C060039EA59 /* SortDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 03FBB9C818C80C060039EA59 /* SortDemoTests.m */; };
+		03FBB9D418C80E180039EA59 /* TableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03FBB9D318C80E180039EA59 /* TableView.m */; };
+		03FBB9D718C80F6A0039EA59 /* TestCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 03FBB9D618C80F6A0039EA59 /* TestCell.m */; };
+		03FBB9DA18C80F870039EA59 /* ITTModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 03FBB9D918C80F870039EA59 /* ITTModel.m */; };
+		03FBB9DE18C842080039EA59 /* ITTArrowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 03FBB9DD18C842080039EA59 /* ITTArrowView.m */; };
+		03FBB9E118C8421C0039EA59 /* ITTSegement.m in Sources */ = {isa = PBXBuildFile; fileRef = 03FBB9E018C8421C0039EA59 /* ITTSegement.m */; };
+		03FBB9E918C961710039EA59 /* down_red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03FBB9E318C961710039EA59 /* down_red@2x.png */; };
+		03FBB9EA18C961710039EA59 /* down_white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03FBB9E418C961710039EA59 /* down_white@2x.png */; };
+		03FBB9EB18C961710039EA59 /* up_red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03FBB9E518C961710039EA59 /* up_red@2x.png */; };
+		03FBB9EC18C961710039EA59 /* up_white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03FBB9E618C961710039EA59 /* up_white@2x.png */; };
+		03FBB9ED18C961710039EA59 /* index_press@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03FBB9E718C961710039EA59 /* index_press@2x.png */; };
+		03FBB9EE18C961710039EA59 /* index@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 03FBB9E818C961710039EA59 /* index@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +64,22 @@
 		03FBB9C418C80C060039EA59 /* SortDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SortDemoTests-Info.plist"; sourceTree = "<group>"; };
 		03FBB9C618C80C060039EA59 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		03FBB9C818C80C060039EA59 /* SortDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SortDemoTests.m; sourceTree = "<group>"; };
+		03FBB9D218C80E180039EA59 /* TableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableView.h; sourceTree = "<group>"; };
+		03FBB9D318C80E180039EA59 /* TableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableView.m; sourceTree = "<group>"; };
+		03FBB9D518C80F6A0039EA59 /* TestCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestCell.h; sourceTree = "<group>"; };
+		03FBB9D618C80F6A0039EA59 /* TestCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestCell.m; sourceTree = "<group>"; };
+		03FBB9D818C80F870039EA59 /* ITTModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ITTModel.h; sourceTree = "<group>"; };
+		03FBB9D918C80F870039EA59 /* ITTModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ITTModel.m; sourceTree = "<group>"; };
+		03FBB9DC18C842080039EA59 /* ITTArrowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ITTArrowView.h; sourceTree = "<group>"; };
+		03FBB9DD18C842080039EA59 /* ITTArrowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ITTArrowView.m; sourceTree = "<group>"; };
+		03FBB9DF18C8421C0039EA59 /* ITTSegement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ITTSegement.h; sourceTree = "<group>"; };
+		03FBB9E018C8421C0039EA59 /* ITTSegement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ITTSegement.m; sourceTree = "<group>"; };
+		03FBB9E318C961710039EA59 /* down_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "down_red@2x.png"; path = "../../../AiXinDemo/AiXinDemo/down_red@2x.png"; sourceTree = "<group>"; };
+		03FBB9E418C961710039EA59 /* down_white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "down_white@2x.png"; path = "../../../AiXinDemo/AiXinDemo/down_white@2x.png"; sourceTree = "<group>"; };
+		03FBB9E518C961710039EA59 /* up_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "up_red@2x.png"; path = "../../../AiXinDemo/AiXinDemo/up_red@2x.png"; sourceTree = "<group>"; };
+		03FBB9E618C961710039EA59 /* up_white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "up_white@2x.png"; path = "../../../AiXinDemo/AiXinDemo/up_white@2x.png"; sourceTree = "<group>"; };
+		03FBB9E718C961710039EA59 /* index_press@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "index_press@2x.png"; path = "../../../AiXinDemo/AiXinDemo/index_press@2x.png"; sourceTree = "<group>"; };
+		03FBB9E818C961710039EA59 /* index@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "index@2x.png"; path = "../../../AiXinDemo/AiXinDemo/index@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +139,18 @@
 		03FBB9A318C80C060039EA59 /* SortDemo */ = {
 			isa = PBXGroup;
 			children = (
+				03FBB9DB18C841E00039EA59 /* ITTSegement */,
 				03FBB9AC18C80C060039EA59 /* AppDelegate.h */,
 				03FBB9AD18C80C060039EA59 /* AppDelegate.m */,
 				03FBB9AF18C80C060039EA59 /* Main.storyboard */,
 				03FBB9B218C80C060039EA59 /* ViewController.h */,
 				03FBB9B318C80C060039EA59 /* ViewController.m */,
+				03FBB9D218C80E180039EA59 /* TableView.h */,
+				03FBB9D318C80E180039EA59 /* TableView.m */,
+				03FBB9D518C80F6A0039EA59 /* TestCell.h */,
+				03FBB9D618C80F6A0039EA59 /* TestCell.m */,
+				03FBB9D818C80F870039EA59 /* ITTModel.h */,
+				03FBB9D918C80F870039EA59 /* ITTModel.m */,
 				03FBB9B518C80C060039EA59 /* Images.xcassets */,
 				03FBB9A418C80C060039EA59 /* Supporting Files */,
 			);
@@ -126,6 +160,7 @@
 		03FBB9A418C80C060039EA59 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				03FBB9E218C961450039EA59 /* Images */,
 				03FBB9A518C80C060039EA59 /* SortDemo-Info.plist */,
 				03FBB9A618C80C060039EA59 /* InfoPlist.strings */,
 				03FBB9A918C80C060039EA59 /* main.m */,
@@ -150,6 +185,30 @@
 				03FBB9C518C80C060039EA59 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		03FBB9DB18C841E00039EA59 /* ITTSegement */ = {
+			isa = PBXGroup;
+			children = (
+				03FBB9DC18C842080039EA59 /* ITTArrowView.h */,
+				03FBB9DD18C842080039EA59 /* ITTArrowView.m */,
+				03FBB9DF18C8421C0039EA59 /* ITTSegement.h */,
+				03FBB9E018C8421C0039EA59 /* ITTSegement.m */,
+			);
+			name = ITTSegement;
+			sourceTree = "<group>";
+		};
+		03FBB9E218C961450039EA59 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				03FBB9E318C961710039EA59 /* down_red@2x.png */,
+				03FBB9E418C961710039EA59 /* down_white@2x.png */,
+				03FBB9E518C961710039EA59 /* up_red@2x.png */,
+				03FBB9E618C961710039EA59 /* up_white@2x.png */,
+				03FBB9E718C961710039EA59 /* index_press@2x.png */,
+				03FBB9E818C961710039EA59 /* index@2x.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,8 +288,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				03FBB9B618C80C060039EA59 /* Images.xcassets in Resources */,
+				03FBB9EC18C961710039EA59 /* up_white@2x.png in Resources */,
+				03FBB9EE18C961710039EA59 /* index@2x.png in Resources */,
 				03FBB9A818C80C060039EA59 /* InfoPlist.strings in Resources */,
+				03FBB9ED18C961710039EA59 /* index_press@2x.png in Resources */,
+				03FBB9EA18C961710039EA59 /* down_white@2x.png in Resources */,
+				03FBB9E918C961710039EA59 /* down_red@2x.png in Resources */,
 				03FBB9B118C80C060039EA59 /* Main.storyboard in Resources */,
+				03FBB9EB18C961710039EA59 /* up_red@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,8 +315,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				03FBB9B418C80C060039EA59 /* ViewController.m in Sources */,
+				03FBB9E118C8421C0039EA59 /* ITTSegement.m in Sources */,
+				03FBB9D418C80E180039EA59 /* TableView.m in Sources */,
+				03FBB9DE18C842080039EA59 /* ITTArrowView.m in Sources */,
+				03FBB9D718C80F6A0039EA59 /* TestCell.m in Sources */,
 				03FBB9AE18C80C060039EA59 /* AppDelegate.m in Sources */,
 				03FBB9AA18C80C060039EA59 /* main.m in Sources */,
+				03FBB9DA18C80F870039EA59 /* ITTModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
